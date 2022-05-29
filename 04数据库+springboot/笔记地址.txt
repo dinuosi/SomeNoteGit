@@ -1,0 +1,4 @@
+SpringBoot阶段笔记地址:
+https://shimo.im/docs/0l3NVOZYNQh5KK3R/ 《2112SpringBoot笔记》，可复制链接后用石墨文档 App 或小程序打开
+MySQL最后一天笔记地址:
+https://shimo.im/docs/2wAlXymj1OFz7EAP/ 《数据库day04》，可复制链接后用石墨文档 App 或小程序打开
